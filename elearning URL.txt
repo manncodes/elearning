@@ -1,0 +1,15 @@
+Wiht on going DB support:
+
+Remote DB:
+http://ec2-52-204-95-5.compute-1.amazonaws.com:8080/18DCS084-Elearning/
+
+LocalHost DB:
+http://ec2-52-204-95-5.compute-1.amazonaws.com:8080/Elearning-18DCS074/
+
+
+//-------------------------------------//
+http://ec2-52-204-95-5.compute-1.amazonaws.com:8080/Elearning-18DCS074/
+http://ec2-52-204-95-5.compute-1.amazonaws.com:8080/Elearning/
+
+Without:
+http://ec2-34-203-75-213.compute-1.amazonaws.com:8080/Elearning-18DCS074/
